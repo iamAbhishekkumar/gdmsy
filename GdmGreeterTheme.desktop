@@ -1,0 +1,10 @@
+# This is not really a .desktop file like the rest, but it's useful to treat
+# it as such
+
+[GdmGreeterTheme]
+Greeter=mytheme.xml
+Name=HumanCeal
+Description=Ubuntu Ceal Welcome Theme
+Author=Dipin Krishna
+Copyright=(c) 2009 GPL
+Screenshot=screenshot.png
